@@ -1,0 +1,2 @@
+clang
+-I./src/vec
