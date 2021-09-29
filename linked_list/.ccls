@@ -1,0 +1,2 @@
+clang
+%c -I./src/linked_list
